@@ -2,6 +2,7 @@
 
 ## Prerequisites
 
+- React
 - Node.js (v14 or later)
 - npm (v6 or later)
 - MongoDB (You can use MongoDB Atlas or a local instance)
